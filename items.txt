@@ -1,0 +1,12 @@
+banana	  9	1000
+grape   	8	   500
+lemon 	8	 1400
+orange 	9	800
+strawberry	4	3000
+cherry 	3	 1500
+grapefruit 	12	 1000
+mandarin	3	400
+mango 	2	  530
+pear 	3	  360
+pineapple 	7	 2500
+watermelon 	5	  600
